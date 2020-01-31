@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Nandan",
+      "lastName": "Kalaria",
+      "email": "nandan@123.com",
+      "pwd": "123",
+      "cities":["Vadodara", "Boston", "New York", "Mumbai" , "Paris" , "Tokyo"],
+      "shared": ["Delhi" , "Dhaka"]
+    },
+    {
+      "id": "2",
+      "firstName": "Tony",
+      "lastName": "Stark",
+      "email": "tony@123.com",
+      "pwd": "123",
+      "cities":["Vadodara", "Boston", "New York", "Mumbai" , "Paris" , "Tokyo"],
+      "shared": ["Delhi" , "Dhaka"]
+    },
+    {
+      "id": "3",
+      "firstName": "Bruce",
+      "lastName": "Banner",
+      "email": "bruce@123.com",
+      "pwd": "123",
+      "cities":["Vadodara", "Boston", "New York", "Mumbai" , "Paris" , "Tokyo"],
+      "shared": ["Delhi" , "Dhaka"]
+    },
+    {
+      "fname": "Steve",
+      "lname": "Rogers",
+      "eid": "steve@123.com",
+      "pwd": "123",
+      "cities":["Vadodara", "Boston", "New York", "Mumbai" , "Paris" , "Tokyo"],
+      "shared": ["Delhi" , "Dhaka"],
+      "id": "M_tr07b"
+    },
+    {
+      "fname": "Pepper",
+      "lname": "Potts",
+      "eid": "pepper@123.com",
+      "pwd": "123",
+      "cities":["Vadodara", "Boston", "New York", "Mumbai" , "Paris" , "Tokyo"],
+      "shared": ["Delhi" , "Dhaka"],
+      "id": "4mHIpUP"
+    },
+    {
+      "fname": "Clark",
+      "lname": "Kent",
+      "eid": "clark@123.com",
+      "pwd": "123",
+      "cities":["Vadodara", "Boston", "New York", "Mumbai" , "Paris" , "Tokyo"],
+      "shared": ["Delhi" , "Dhaka"],
+      "id": "uN5bK2E"
+    }
+  ],
+
+  "usernames":[ "Nandan", "Bruce", "Pepper", "Tony", "Steve", "Clark"]
+}
